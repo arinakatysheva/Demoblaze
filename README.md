@@ -4,8 +4,8 @@
 1. Зайти на сайт https://www.demoblaze.com/index.html
 2. Нажать кнопку "Log in" в верхнем меню
 3. Авторизоваться в личном кабинете
-   логин - "arinak"
-   пароль - "123456"
+   (логин - "arinak", 
+   пароль - "123456")
 
 **Шаги:**
 1. Перейти по ссылке на товар "Nexus 6"
@@ -23,9 +23,9 @@
 **Шаги:**
 1. Нажать кнопку "Contact" в верхнем меню
 2. Заполнить поля всплывающей формы
-   contact email - "arinakatysheva@gmail.com"
-   contact name - "ArinaK"
-   message - "I want to buy"
+   (contact email - "arinakatysheva@gmail.com", 
+   contact name - "ArinaK", 
+   message - "I want to buy")
 3. Нажать кнопку "Send Message"
 
 **Ожидаемый результат:**
